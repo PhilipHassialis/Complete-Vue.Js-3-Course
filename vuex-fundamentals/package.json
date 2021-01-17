@@ -1,0 +1,19 @@
+{
+  "name": "vuex-fundamentals",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "A simple vuex intro app",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.5",
+    "vuex": "^4.0.0-rc.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.0.4",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.0.0-beta.12"
+  }
+}
