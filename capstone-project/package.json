@@ -1,0 +1,23 @@
+{
+  "name": "capstone-project",
+  "version": "0.0.0",
+  "license": "MIT",
+  "description": "Capstone Project",
+  "repository": {
+    "name": "Capstone Project"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0-rc.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.0.4",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.0.0-beta.12"
+  }
+}
